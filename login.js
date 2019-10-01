@@ -167,7 +167,7 @@ function showtube(ev) {
             '&maxResults=10' +
             '&order=relevance' +
             '&q=' + keyvalue + 'Official' +
-            '&key=AIzaSyBXjC5s3z02hP_wTIyO8tkinjkgWrGvAvk'
+            '&key=API KEY'
     }).done(function (data) {
         /* Initial */
         var tag = document.createElement('script');
